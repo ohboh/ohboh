@@ -1,6 +1,5 @@
 - 👋 Hi, I’m obo!
 
-- 💞️ I’m looking to collaborate on.. anything. Just hit me up
 - 📫 How to reach me: tiohboh@gmail.com
 
 <!---
