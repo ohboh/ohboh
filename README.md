@@ -1,6 +1,6 @@
 - 👋 Hi, I’m obo!
 
-- 📫 How to reach me: tiohboh@gmail.com
+- 📫 How to reach me: theohboh@gmail.com
 
 <!---
 ohboh/ohboh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
