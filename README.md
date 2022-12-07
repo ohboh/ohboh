@@ -1,4 +1,4 @@
-- Hi, I’m ohboh!
+- ✋ Hi, I’m ohboh!
 
 - 🗿 How to reach me: theohboh@gmail.com
 
