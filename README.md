@@ -1,8 +1,6 @@
-- ✋ Hi, I’m ohboh!
+Hi 👋 My name is obo
+====================
 
-- 🗿 How to reach me: theohboh@gmail.com
-
-<!---
-ohboh/ohboh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+*   ✉️  You can contact me at [theohoboh@gmail.com](mailto:theohoboh@gmail.com)
+*   🧠  I'm trying to learn everything.
+*   🤝  I'm open to collaborating on anything.
