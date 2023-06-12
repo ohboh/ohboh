@@ -1,8 +1,5 @@
-Hi My name is obo
+My name is obo, you can call me obo
 ====================
 
 *   [theohboh@gmail.com](mailto:theohboh@gmail.com)
 *   I will dominate the world
-*   I'm open to collaborating on anything.
-
-🗿🗿🗿🗿🗿
